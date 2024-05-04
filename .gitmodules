@@ -1,0 +1,3 @@
+[submodule "vendor/diff-gaussian-rasterization"]
+	path = vendor/diff-gaussian-rasterization
+	url = https://github.com/graphdeco-inria/diff-gaussian-rasterization

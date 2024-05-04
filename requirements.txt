@@ -1,0 +1,3 @@
+torch
+torchvision
+diff_gaussian_rasterization @ git+https://github.com/yklcs/diff-gaussian-rasterization
